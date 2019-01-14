@@ -74,3 +74,6 @@ python evaluate.py -c config.json -p 3
 ```
 
 To try to do finetune, just run finetune.py and clustering.py for clustering.
+### Thanks
+
+Keras-YOLOv3 origin code: [YOLOv3](https://github.com/experiencor/keras-yolo3)
